@@ -99,6 +99,29 @@ margin-top: 130px;
         text-decoration-line: underline;
     }
 
+.offer-info{
+    display: flex;
+    align-items: center;
+     justify-content: space-around;
+     margin: 393px;
+}
+.offer{
+    text-align: center;
+}
+.insta{
+    margin-bottom: 50px;
+}
+.image-of-insta {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Add 20px of space between the images */
+    margin-top: 50px;
+  }
+  
+  .image-of-insta img {
+    max-width: 100%;
+    height: auto;
+  }
 
 
 
