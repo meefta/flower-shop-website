@@ -48,6 +48,7 @@ font-weight: 400;
 width: 594px;
 margin: 0 auto; /* Centers the element horizontally within its container */
 margin-top: 20px;
+margin-bottom: 20px;
 
 }
 .section-title{
@@ -72,8 +73,8 @@ margin-top: 130px;
         justify-content: space-around;
     }
     .red{
-        padding: 47px;
-        padding-top: 117px;
+        padding: 117px 47px 51px 47px;
+        /* padding-top: 117px; */
         border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 
@@ -122,6 +123,42 @@ margin-top: 130px;
     max-width: 100%;
     height: auto;
   }
+  form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  input{
+    width: 700px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background: #FFF;
+    height: 64px;
+  }
+  .input-container {
+    margin-top: 48px; /* Adjust the value to reduce the top margin */
+    margin-bottom: 121px;
+  }
+
+.cupon-info{
+    background-image: url(../flower/Rectangle\ 9.png);
+    margin: 128px 240px;
+    border-radius: 8px;
+}
+.btn-primary-2{
+    background-color: #e55473;
+     border-radius: 5px;
+     border: 0;
+     padding: 15px 35px;
+     font-size: 20px;
+     font-weight: 700px;
+     color: white;
+     margin-left: 47px;
+}
+  
 
 
 
@@ -131,5 +168,4 @@ margin-top: 130px;
 
   
   
-
 
