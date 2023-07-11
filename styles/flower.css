@@ -187,7 +187,22 @@ margin: 0 auto; /* Centers the element horizontally within its container */
 margin-top: 20px;
 margin-bottom: 20px;
 }
+/* new arrival */
+.center-text{
+    text-align: center;
+    font-size: var(--h2-font);
+    font-weight: 800;
+    color: var(--text-color);
+}
   
+.new-content{
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit,minmax(300px,auto)); */
+    align-items: center;
+    gap: 2.5rem;
+    margin: 4.5rem;
+    text-align: center;
+}
 
 
 
