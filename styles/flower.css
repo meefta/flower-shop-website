@@ -1,0 +1,43 @@
+.header{
+    background-color:rgba(229, 84, 115, 0.1);
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner{
+    padding: 100px 150px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-title{
+    margin: 0;
+    font-size: 85px;
+    font-weight: 700;
+    margin-bottom:20px;
+}
+.btn-primary{
+    background-color: #e55473;
+     border-radius: 5px;
+     border: 0;
+     padding: 15px 35px;
+     font-size: 20px;
+     font-weight: 700px;
+     color: white;
+}
+
+.para{
+    font-size: 16px;
+  margin-top: 50px;
+ color: rgba(39, 39, 39, 0.6);
+ text-align: justify;
+}
+.banner-content {
+    max-width: 800px; /* Adjust the value according to your preference */
+    margin: 0 auto; /* Centers the content horizontally within the parent container */
+  }
+  
+  
+
+
+
