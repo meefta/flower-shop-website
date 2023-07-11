@@ -1,3 +1,5 @@
+
+/* related to header style */
 .header{
     background-color:rgba(229, 84, 115, 0.1);
 }
@@ -36,6 +38,33 @@ body{
     max-width: 800px; /* Adjust the value according to your preference */
     margin: 0 auto; /* Centers the content horizontally within the parent container */
   }
+
+  /* main section style */
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+width: 594px;
+margin: 0 auto; /* Centers the element horizontally within its container */
+margin-top: 20px;
+
+}
+.section-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800 ;
+margin-bottom: 20px;
+margin-top: 130px;
+}
+
+
+
+
+
+  /* about section style */
+
   
   
 
